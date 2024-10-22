@@ -1,0 +1,14 @@
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/bin/Debug/TuioDemo.exe
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/bin/Debug/TuioDemo.pdb
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TUIO_DEMO.csproj.AssemblyReference.cache
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TUIO_DEMO.csproj.CoreCompileInputs.cache
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TuioDemo.exe
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TuioDemo.pdb
+C:\Users\Sigma\OneDrive\Desktop\MSA\last year\2nd term\HCI(cs484)\TUIO11_NET-master\bin\Debug\TuioDemo.exe.config
+C:\Users\Sigma\OneDrive\Desktop\MSA\last year\2nd term\HCI(cs484)\TUIO11_NET-master\bin\Debug\TuioDemo.exe
+C:\Users\Sigma\OneDrive\Desktop\MSA\last year\2nd term\HCI(cs484)\TUIO11_NET-master\bin\Debug\TuioDemo.pdb
+C:\Users\Sigma\OneDrive\Desktop\MSA\last year\2nd term\HCI(cs484)\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+C:\Users\Sigma\OneDrive\Desktop\MSA\last year\2nd term\HCI(cs484)\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sigma\OneDrive\Desktop\MSA\last year\2nd term\HCI(cs484)\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\Sigma\OneDrive\Desktop\MSA\last year\2nd term\HCI(cs484)\TUIO11_NET-master\obj\Debug\TuioDemo.exe
+C:\Users\Sigma\OneDrive\Desktop\MSA\last year\2nd term\HCI(cs484)\TUIO11_NET-master\obj\Debug\TuioDemo.pdb
